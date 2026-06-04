@@ -17,8 +17,8 @@ A NestJS-powered REST API for booking and managing doctor appointments.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/schedula-<your-name>.git
-cd schedula-<your-name>
+git clone https://github.com/mrlazy004/schedula-beera.git
+cd schedula-beera
 
 # Install dependencies
 npm install
